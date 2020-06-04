@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    background-color: white;
+    opacity: 0.8;
+}
+.table table-dark table.hover{
+    opacity: 0.6;
+}
+body{
+    background-image: url(/images/fondo.jpg);
+    background-size: contain;
+}
+footer{
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+}
+.time{
+    list-style: none;
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    opacity: 0.8;
+}
+table{
+    opacity: 0.9;
+}
